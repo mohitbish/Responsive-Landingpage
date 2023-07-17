@@ -19,7 +19,7 @@ const Hero = () => {
             pure bliss and create unforgettable memories on your dream private
             island holiday.
           </p>
-          <button className="bg-white text-black rounded-2xl  py-2 px-2">Reserve Now</button>
+          <button className="bg-white text-black rounded-2xl  py-2 px-2 hover:shadow-xl">Reserve Now</button>
         </div>
       </div>
     </div>

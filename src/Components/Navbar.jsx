@@ -18,7 +18,7 @@ const Navbar = () => {
       <HiMenuAlt3
         onClick={handleNav}
         className="z-20 text-white cursor-pointer"
-        size={25}
+        size={35}
       />
       <div
         className={
